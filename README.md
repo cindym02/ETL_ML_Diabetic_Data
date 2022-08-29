@@ -2,6 +2,6 @@
 
 ## Objective: Predict the likelihood of 30-day readmissions in the diabetic population in order to reduce the 30-day readmission rate for this population.
 
-Linear/logistic regression, linear discriminant analysis,
+Data cleaning, transformation, bivariate analyses, linear/logistic regression, linear discriminant analysis,
 decision trees with bagging, random forest classifier, boosting, tuning
 unsupervised learning, k-means clustering
